@@ -25,8 +25,8 @@ var b = 2 + 2
         } else if (b === 5) {
             console.log('many_value');
         } else {
-            console.log('no_yet_value')
-            console.timeEnd(b)
+            console.log('no_yet_value')  
         }
+        console.timeEnd(b)
         console.log()
 }
